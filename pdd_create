@@ -1,0 +1,2 @@
+#!/bin/sh
+/usr/bin/php /pdd_create.php $1 $2 $3 $4
